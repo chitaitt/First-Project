@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 // Tai sua dong nay
+// Tuan them dong nay
 using namespace std;
 void TimDB(int a[],int b[],int n)
 {
@@ -31,6 +32,7 @@ void TimDB(int a[],int b[],int n)
        s += a[i]*b[i+1]-a[i+1]*b[i];
     cout << s/2;   
 }
+// Hello
 int main()
 {
 	int n;
