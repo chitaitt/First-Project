@@ -5,6 +5,5 @@ Project 1
 
 - Cac buoc:
 + SQL
-+ Giao dien
++ Giao dien: Tuan da lam xong giao dien
 + Test
-
