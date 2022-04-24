@@ -3,6 +3,7 @@ Project 1
 - Noi dung:
 + Code phan mem ban ve may bay
 + Them chuc nang 2
++ Them chuc nang 3
 
 - Cac buoc:
 + SQL: Tai da code xong phan nay
