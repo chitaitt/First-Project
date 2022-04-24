@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+// Tai sua dong nay
 using namespace std;
 void TimDB(int a[],int b[],int n)
 {
