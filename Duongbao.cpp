@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 // Tai sua dong nay
-// Tuan them dong nay
+// Tai sua dong nay cua Tuan
 using namespace std;
 void TimDB(int a[],int b[],int n)
 {
